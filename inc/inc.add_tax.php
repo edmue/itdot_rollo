@@ -19,7 +19,7 @@
 * 	Released under the GNU General Public License
 * ----------------------------------------------------------------------------------- */
 
-   
+   // test
 function add_tax($price, $tax) 
 	{ 
 	  $price=$price+$price/100*$tax;
